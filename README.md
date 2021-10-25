@@ -1,2 +1,2 @@
 # Grafkom-project
-## Bsimlillah Grafkom Pasti A
+## Bismillah Grafkom Pasti A
