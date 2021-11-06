@@ -40,15 +40,16 @@ Disini peran Dewa Laut dibutuhkan, yaitu untuk membasmi Para Destroyer dan menga
 ## Goals
 Mengamankan laut dari destroyers, yaitu orang-orang yang mengancam ketentraman dan ekosistem laut, dalam waktu yang ditentukan.
 
-## Rules- dilaut Antah Berantah terjadi pengeboman ilegal oleh serombongan destroyer
-1. Seorang Dewa Laut yang dianugrahi energi untuk menyerang destriyers diutus Tuhan untuk melindungi ekosistem laut 
-2. Jika destroyer melepas 3x bom, maka terumbu karang akan hancur
-3. Dewa air harus menyerang destroyers untuk mendapatkan point
-4. jika serangan dewa air merusak ekosistem dengan maksimal 3 kali serangan, maka nyawa berkurang
-5. Setiap level dibatesin waktu yang terus berkurang seiring peningkatan level
-6. Dewa Laut diber jatah 5 nyawa yang akan berkurang jika menghancurkan terumbu karang
-7. Game bersifat endless dengan tingkat kesulitan bertambah setiap levelnya
-8. Game over jika terumbu karang hancur oleh destroyer dan/atau nyawa habis
+## Rules
+1. Dilaut Antah Berantah terjadi pengeboman ilegal oleh serombongan destroyer
+2. Seorang Dewa Laut yang dianugrahi energi untuk menyerang destriyers diutus Tuhan untuk melindungi ekosistem laut 
+3. Jika destroyer melepas 3x bom, maka terumbu karang akan hancur
+4. Dewa air harus menyerang destroyers untuk mendapatkan point
+5. jika serangan dewa air merusak ekosistem dengan maksimal 3 kali serangan, maka nyawa berkurang
+6. Setiap level dibatesin waktu yang terus berkurang seiring peningkatan level
+7. Dewa Laut diber jatah 5 nyawa yang akan berkurang jika menghancurkan terumbu karang
+8. Game bersifat endless dengan tingkat kesulitan bertambah setiap levelnya
+9. Game over jika terumbu karang hancur oleh destroyer dan/atau nyawa habis
 
 ## Assets
 In Progresss......
