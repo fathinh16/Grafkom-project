@@ -31,8 +31,14 @@
         </tr>
     </tbody>
 </table>
+
 ## Story
+
 ## Goals
+
 ## Rules
+
 ## Assets
+
 ## Tampilan Game
+
