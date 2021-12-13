@@ -59,15 +59,25 @@ Mengamankan laut dari bom yang datang dari atas, agar tidak mengenai terumbu kar
 ## Assets
 Untuk asset karakter dewa laut kami membuatnya sendiri, sisanya diambil dari internet
 [https://opengameart.org/content/free-pirates-game-assets-by-unlucky-studio](https://opengameart.org/content/free-pirates-game-assets-by-unlucky-studio)
+
 [https://www.pngegg.com/en/png-yqugb](https://www.pngegg.com/en/png-yqugb)
+
 [https://www.pngitem.com/so/coral-reef/](https://www.pngitem.com/so/coral-reef/)
+
 [https://toppng.com/free-image/coral-reef-clipart-png-jpg-black-and-white-stock-coral-reef-cartoon-PNG-free-PNG-Images_177021](https://toppng.com/free-image/coral-reef-clipart-png-jpg-black-and-white-stock-coral-reef-cartoon-PNG-free-PNG-Images_177021)
+
 [https://www.freepik.com/free-vector/ocean-sea-underwater-background-empty-bottom_7058927.htm#page=1&query=underwater&position=10&from_view=keyword](https://www.freepik.com/free-vector/ocean-sea-underwater-background-empty-bottom_7058927.htm#page=1&query=underwater&position=10&from_view=keyword/)
+
 [https://id.pinterest.com/pin/465278205259338123/](https://id.pinterest.com/pin/465278205259338123/)
+
+[https://craftpix.net/freebies/free-underwater-world-2d-game-objects/](https://craftpix.net/freebies/free-underwater-world-2d-game-objects/)
+
 
 Musik yang kami gunakan:
 [Suara Klik Mouse](https://assets.mixkit.co/sfx/download/mixkit-select-click-1109.wav)
+
 [Suara Bom Meledak](https://assets.mixkit.co/sfx/download/mixkit-sea-mine-deep-explosion-1186.wav)
+
 [Backsound Game](https://www.melodyloops.com/my-music/longoloops/89743516528/melodyloops-preview-funny-adventure-2m30s-mp3/)
 
 
