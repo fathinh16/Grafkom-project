@@ -19,7 +19,7 @@
         </tr>
         <tr>
             <td>2</td>
-            <td>Galih Nenudia</td>
+            <td>Galih Nenudiwa</td>
             <td>G64190016</td>
             <td>Game Artist</td>
         </tr>
@@ -27,7 +27,7 @@
             <td>3</td>
             <td>Fathin Humaira</td>
             <td>G64190070</td>
-            <td>Gae Developer</td>
+            <td>Game Developer</td>
         </tr>
     </tbody>
 </table>
