@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TerumbuKarang
+  - bullet
+  - Batasatas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Action
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2214610575
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tilemap
+    uniqueID: 1364834055
+    locked: 0
+  - name: didepan
+    uniqueID: 1303110275
+    locked: 0
+  - name: bom
+    uniqueID: 3778965091
+    locked: 0
